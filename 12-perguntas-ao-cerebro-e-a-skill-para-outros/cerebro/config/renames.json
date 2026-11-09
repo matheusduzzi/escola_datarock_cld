@@ -1,0 +1,64 @@
+{
+ "map": {
+  "reuniao-01": {
+   "Bruno Teixera": "Bruno Teixeira",
+   "Valenti": "Marcos Valente",
+   "Juju": "Juliana Prado"
+  },
+  "reuniao-02": {
+   "Léo": "Leonardo Dias"
+  },
+  "reuniao-03": {
+   "Bruno": "Bruno Lacerda",
+   "Lacerda": "Bruno Lacerda"
+  },
+  "reuniao-05": {
+   "Walente": "Marcos Valente"
+  },
+  "reuniao-06": {
+   "Leo Dias": "Leonardo Dias",
+   "Juju": "Juliana Prado"
+  },
+  "reuniao-07": {
+   "Bruno": "Bruno Lacerda",
+   "Lacerda": "Bruno Lacerda"
+  },
+  "reuniao-08": {
+   "Bruno": "Bruno Teixeira",
+   "Teixeira": "Bruno Teixeira"
+  },
+  "reuniao-09": {
+   "Leonardo": "Leonardo Dias"
+  },
+  "reuniao-10": {
+   "Marcos": "Marcos Valente",
+   "Juliana": "Juliana Prado",
+   "Clara": "Clara Nogueira",
+   "Léo": "Leonardo Dias"
+  },
+  "reuniao-11": {
+   "Léo": "Leonardo Dias",
+   "Valente": "Marcos Valente"
+  },
+  "reuniao-12": {
+   "Clara": "Clara Nogueira",
+   "Ju Prado": "Juliana Prado",
+   "Marcos": "Marcos Valente",
+   "Bruno L.": "Bruno Lacerda"
+  }
+ },
+ "done": [
+  "reuniao-01",
+  "reuniao-02",
+  "reuniao-03",
+  "reuniao-04",
+  "reuniao-05",
+  "reuniao-06",
+  "reuniao-07",
+  "reuniao-08",
+  "reuniao-09",
+  "reuniao-10",
+  "reuniao-11",
+  "reuniao-12"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "fid": "reuniao-04",
+ "title": "Fornecedor de tecidos",
+ "date": "2026-10-09T19:00:00",
+ "duration": 1800000,
+ "status": "ok",
+ "resumo": "Sérgio, da Fionobre, avisou que o lote de toalhas de banho atrasa duas semanas por falta de fio. Ele propôs um reajuste de 6% nos pedidos novos a partir de novembro.\n\nMarcos Valente disse que a coleção de verão depende desse lote e que as lojas físicas já anunciaram a coleção. Renata Campo pediu uma data firme por escrito.",
+ "entities": {
+  "pessoas": [
+   "Sérgio Matos",
+   "Marcos Valente"
+  ],
+  "projetos": [
+   "Coleção de Verão"
+  ],
+  "temas": [
+   "Fornecedores",
+   "Prazos"
+  ],
+  "empresas": [
+   "Fionobre"
+  ]
+ },
+ "decisoes": [
+  "O reajuste é aceito só para pedidos novos, não para o lote atrasado.",
+  "A coleção de verão pode sair em duas partes."
+ ],
+ "acoes": [
+  {
+   "responsavel": "Sérgio",
+   "tarefa": "manda a nova data de entrega por e-mail",
+   "prazo": "13/10"
+  },
+  {
+   "responsavel": "Marcos Valente",
+   "tarefa": "revisa o pedido da coleção de verão",
+   "prazo": ""
+  }
+ ],
+ "semResumo": false,
+ "processedAt": "2026-10-31T11:00:00.000Z"
+}

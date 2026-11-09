@@ -1,0 +1,7 @@
+{
+  "_leia": "A regra que a página usava antes da auditoria, testada só com dados simulados. É o \"antes\" da tabela. Não mude esse arquivo.",
+  "casamento": "horario",
+  "correcao": "global",
+  "emails_confirmados": {},
+  "nomes_confirmados": []
+}

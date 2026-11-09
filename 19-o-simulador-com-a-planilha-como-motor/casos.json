@@ -1,0 +1,48 @@
+{
+  "sobre": "Os casos que o motor do simulador precisa acertar antes de publicar. Valores em reais, ao centavo. Regra de outubro de 2026 (aba Taxas da planilha). Lucro antes de imposto e anúncios.",
+  "casos": [
+    {
+      "nome": "gabarito: kit de 3 a R$ 10,90",
+      "entradas": {"Calculadora!B6": 10.9},
+      "esperado": {"Calculadora!B13": -6.90, "Calculadora!B17": 4.00}
+    },
+    {
+      "nome": "lote a R$ 29,90",
+      "entradas": {"Calculadora!B6": 29.9},
+      "esperado": {
+        "Simulação de lote!B12": 333,
+        "Simulação de lote!B17": 2684.03,
+        "Simulação de lote!B22": 18.82,
+        "Simulação de lote!B24": 3583.03,
+        "Simulação de lote!B26": 16.10
+      }
+    },
+    {
+      "nome": "tabela de seis preços",
+      "entradas": {},
+      "esperado": {
+        "Simulação de lote!D30": 985.63,
+        "Simulação de lote!D31": 2284.33,
+        "Simulação de lote!D32": 3583.03,
+        "Simulação de lote!D33": 4881.73,
+        "Simulação de lote!D34": 6180.43,
+        "Simulação de lote!D35": 8777.83
+      }
+    },
+    {
+      "nome": "degrau: R$ 79,99",
+      "entradas": {"Calculadora!B6": 79.99},
+      "esperado": {"Calculadora!B17": 57.89}
+    },
+    {
+      "nome": "degrau: R$ 80,00",
+      "entradas": {"Calculadora!B6": 80},
+      "esperado": {"Calculadora!B17": 51.20}
+    },
+    {
+      "nome": "degrau: R$ 88,00",
+      "entradas": {"Calculadora!B6": 88},
+      "esperado": {"Calculadora!B17": 57.92}
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+ "fid": "reuniao-01",
+ "title": "Alinhamento semanal de operações",
+ "date": "2026-10-05T12:02:00",
+ "duration": 2460000,
+ "status": "ok",
+ "resumo": "A reunião começou com os atrasos de entrega no interior. Bruno Teixera, da logística, mostrou que 14 pedidos da última semana passaram do prazo, quase todos com a RST. Renata pediu para separar o atraso da transportadora do atraso de separação no depósito.\n\nValenti contou que as duas lojas físicas estão com pouco estoque de jogo de cama casal e que isso pode atrapalhar a BF. Juju quer fechar o calendário de e-mails da campanha antes do fim do mês.",
+ "entities": {
+  "pessoas": [
+   "Bruno Teixera",
+   "Valenti",
+   "Juju"
+  ],
+  "projetos": [
+   "BF"
+  ],
+  "temas": [
+   "Entregas",
+   "Estoque"
+  ],
+  "empresas": [
+   "RST"
+  ]
+ },
+ "decisoes": [
+  "Pedir à RST um relatório semanal de atrasos por cidade.",
+  "O calendário da BF sai até 30/10."
+ ],
+ "acoes": [
+  {
+   "responsavel": "Bruno Teixera",
+   "tarefa": "fala com a transportadora",
+   "prazo": "sexta"
+  },
+  {
+   "responsavel": "Juju",
+   "tarefa": "prepara o calendário de e-mails da BF",
+   "prazo": ""
+  },
+  {
+   "responsavel": "Valenti",
+   "tarefa": "levanta o estoque das lojas físicas",
+   "prazo": ""
+  }
+ ],
+ "semResumo": false,
+ "processedAt": "2026-10-31T11:00:00.000Z"
+}

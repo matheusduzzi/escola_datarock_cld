@@ -1,0 +1,6 @@
+/* cor antiga do cardápio: #6B4F3A */
+body { background: #FAF6F0; color: #3B2F2A; font-family: 'Lora', serif; }
+h1 { color: #6B4A3A; font-family: 'Lora', serif; font-weight: 700; }
+.botao { background: #6b4a3a; color: #fff; border-radius: 8px; }
+.preco { color: #6B4B3A; }
+.rodape { background: #3B2F2A; color: #FAF6F0; }

@@ -1,0 +1,47 @@
+{
+ "fid": "reuniao-06",
+ "title": "Atendimento: fila e assistente",
+ "date": "2026-10-14T14:00:00",
+ "duration": 2400000,
+ "status": "ok",
+ "resumo": "Clara Nogueira, coordenadora do atendimento, mostrou o resultado do mês. A CLARA resolveu sozinha 61% das conversas do WhatsApp. O resto foi para a equipe, e o tempo médio de espera subiu para 18 minutos.\n\nLeo Dias explicou que a assistente passa para pessoa tarde demais: ela insiste três ou quatro vezes antes. Juju pediu que a CLARA avise quando a promoção da Black Friday começar, para o cliente não perguntar à equipe.\n\nO grupo falou de IA para resumir a conversa antes de passar para a pessoa.",
+ "entities": {
+  "pessoas": [
+   "Clara Nogueira",
+   "Leo Dias",
+   "Juju"
+  ],
+  "projetos": [
+   "CLARA",
+   "Black Friday"
+  ],
+  "temas": [
+   "Atendimento",
+   "IA"
+  ],
+  "empresas": []
+ },
+ "decisoes": [
+  "A CLARA passa para pessoa depois de duas tentativas sem resolver.",
+  "O aviso da promoção entra na assistente em 01/11."
+ ],
+ "acoes": [
+  {
+   "responsavel": "Clara Nogueira",
+   "tarefa": "revisa 50 conversas que foram para a equipe",
+   "prazo": ""
+  },
+  {
+   "responsavel": "Leo Dias",
+   "tarefa": "publica a nova versão da assistente",
+   "prazo": "21/10"
+  },
+  {
+   "responsavel": "Juju",
+   "tarefa": "manda o texto do aviso da promoção",
+   "prazo": ""
+  }
+ ],
+ "semResumo": false,
+ "processedAt": "2026-10-31T11:00:00.000Z"
+}

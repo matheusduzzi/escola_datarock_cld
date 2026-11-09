@@ -1,0 +1,44 @@
+{
+ "fid": "reuniao-07",
+ "title": "Fechamento financeiro de setembro",
+ "date": "2026-10-16T12:00:00",
+ "duration": 2700000,
+ "status": "ok",
+ "resumo": "Bruno apresentou o fechamento de setembro. O frete subiu para 11% da receita do site, e a maior parte é da Rápido Sul. A taxa da Pagaré ficou igual.\n\nLacerda calculou o custo do Aurora Plus: com 3% de volta, o programa custaria perto de R$ 9 mil por mês no site. Renata achou alto para um piloto e pediu um teto.",
+ "entities": {
+  "pessoas": [
+   "Bruno",
+   "Lacerda"
+  ],
+  "projetos": [
+   "Aurora Plus",
+   "Black Friday"
+  ],
+  "temas": [
+   "Custos",
+   "Fidelidade"
+  ],
+  "empresas": [
+   "Rápido Sul",
+   "Pagaré"
+  ]
+ },
+ "decisoes": [
+  "O piloto do Aurora Plus tem teto de R$ 5 mil por mês.",
+  "O frete grátis acima de R$ 299 continua até a Black Friday."
+ ],
+ "acoes": [
+  {
+   "responsavel": "Bruno",
+   "tarefa": "manda o fechamento por loja",
+   "prazo": "20/10"
+  },
+  {
+   "responsavel": "Lacerda",
+   "tarefa": "simula o programa com teto e manda para o marketing",
+   "prazo": ""
+  }
+ ],
+ "semResumo": false,
+ "processedAt": "2026-10-31T11:00:00.000Z"
+}

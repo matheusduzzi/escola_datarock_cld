@@ -1,0 +1,17 @@
+/* Tema Leve 2.3, do construtor de páginas. Não editar: o construtor regrava este arquivo. */
+
+* { box-sizing: border-box; }
+
+.container {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.formulario input {
+  border: 1px solid #CCCCCC;
+  background: #FFFFFF;
+  padding: 10px;
+}
+
+.rodape a { color: #3366CC; }

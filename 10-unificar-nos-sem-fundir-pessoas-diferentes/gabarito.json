@@ -1,0 +1,35 @@
+{
+  "_leia": "O gabarito da Renata, que conhece a equipe: quais nomes do grafo são a mesma coisa. Cada lista é um nó. O medir.py compara o resultado do resolvedor com esse arquivo. Um nome que pode ser duas pessoas fica sozinho: o grafo inteiro não sabe qual é, só a reunião sabe.",
+  "pessoas": {
+    "Marcos Valente": ["Marcos Valente", "Marcos", "Valente", "Valenti", "Walente"],
+    "Juliana Prado": ["Juliana Prado", "Juliana", "Ju Prado", "Juju"],
+    "Leonardo Dias": ["Leo Dias", "Leonardo", "Léo"],
+    "Clara Nogueira": ["Clara Nogueira", "Clara"],
+    "Bruno Teixeira": ["Bruno Teixera", "Teixeira"],
+    "Bruno Lacerda": ["Bruno L.", "Lacerda"],
+    "Bruno (um dos dois)": ["Bruno"],
+    "Sérgio Matos": ["Sérgio Matos"],
+    "Sérgio Mattos": ["Sérgio Mattos"]
+  },
+  "projetos": {
+    "Black Friday 2026": ["Black Friday 2026", "Black Friday", "BF 2026", "BF"],
+    "Aurora+": ["Aurora+", "Aurora Plus", "Aurora Mais"],
+    "Coleção Verão 2027": ["Coleção de Verão", "coleção de verão"],
+    "Painel de Estoque": ["Painel Estoque", "painel do estoque"],
+    "CLARA": ["CLARA"],
+    "Site novo": ["Site novo"]
+  },
+  "empresas": {
+    "Rápido Sul Transportes": ["Rápido-Sul Transportes Ltda", "Rápido Sul", "Rapidosul", "RST"],
+    "Pagare": ["Pagare", "Pagari", "Pagaré"],
+    "Agência Ponto": ["agência Ponto", "Ponto Agência"],
+    "Fio Nobre Têxtil": ["Fio Nobre Têxtil S.A.", "Fionobre"]
+  },
+  "temas": {
+    "IA": ["IA", "Inteligência artificial"],
+    "Entregas": ["Entregas", "Entrega"],
+    "Estoque": ["Estoque"], "Atendimento": ["Atendimento"], "Fidelidade": ["Fidelidade"], "Custos": ["Custos"],
+    "Fornecedores": ["Fornecedores"], "Prazos": ["Prazos"], "Lojas físicas": ["Lojas físicas"], "Equipe": ["Equipe"],
+    "Contratos": ["Contratos"], "Pagamentos": ["Pagamentos"], "Campanha": ["Campanha"]
+  }
+}

@@ -1,0 +1,360 @@
+{
+ "at": "2026-11-02T11:00:00Z",
+ "events": [
+  {
+   "id": "ev-0501",
+   "t": "Alinhamento semanal de operações",
+   "s": "2026-10-05T09:00:00-03:00",
+   "e": "2026-10-05T09:45:00-03:00",
+   "rec": "serie-alinhamento",
+   "n": 3,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "bruno.teixeira@lojaaurora.example",
+     "n": "Bruno Teixeira",
+     "r": "accepted"
+    },
+    {
+     "e": "marcos.valente@lojaaurora.example",
+     "n": "Marcos Valente",
+     "r": "accepted"
+    },
+    {
+     "e": "juliana.prado@lojaaurora.example",
+     "n": "Juliana Prado",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-0601",
+   "t": "Atendimento: assistente no WhatsApp",
+   "s": "2026-10-06T14:00:00-03:00",
+   "e": "2026-10-06T14:30:00-03:00",
+   "rec": "",
+   "n": 2,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "leonardo.dias@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    },
+    {
+     "e": "atendimento.02@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-0701",
+   "t": "Proposta Aurora+ com a Agência Ponto",
+   "s": "2026-10-07T10:30:00-03:00",
+   "e": "2026-10-07T11:30:00-03:00",
+   "rec": "",
+   "n": 2,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "juliana.prado@lojaaurora.example",
+     "n": "Juliana Prado",
+     "r": "accepted"
+    },
+    {
+     "e": "bruno.lacerda@lojaaurora.example",
+     "n": "Bruno Lacerda",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-0901",
+   "t": "Fio Nobre: prazo das toalhas",
+   "s": "2026-10-09T16:00:00-03:00",
+   "e": "2026-10-09T16:30:00-03:00",
+   "rec": "",
+   "n": 2,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "marcos.valente@lojaaurora.example",
+     "n": "Marcos Valente",
+     "r": "accepted"
+    },
+    {
+     "e": "sergio@fionobre.example",
+     "n": "Sérgio Matos",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-1201",
+   "t": "1:1 Marcos / Renata",
+   "s": "2026-10-12T14:30:00-03:00",
+   "e": "2026-10-12T15:00:00-03:00",
+   "rec": "serie-1a1-marcos",
+   "n": 1,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "marcos.valente@lojaaurora.example",
+     "n": "Marcos Valente",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-1401",
+   "t": "Atendimento: fila e assistente",
+   "s": "2026-10-14T11:00:00-03:00",
+   "e": "2026-10-14T11:45:00-03:00",
+   "rec": "",
+   "n": 3,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "leonardo.dias@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    },
+    {
+     "e": "atendimento.02@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    },
+    {
+     "e": "juliana.prado@lojaaurora.example",
+     "n": "Juliana Prado",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-1601",
+   "t": "Treino das lojas para a Black Friday",
+   "s": "2026-10-16T09:00:00-03:00",
+   "e": "2026-10-16T09:45:00-03:00",
+   "rec": "",
+   "n": 2,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "marcos.valente@lojaaurora.example",
+     "n": "Marcos Valente",
+     "r": "accepted"
+    },
+    {
+     "e": "atendimento.02@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-1602",
+   "t": "Fechamento financeiro de setembro",
+   "s": "2026-10-16T09:00:00-03:00",
+   "e": "2026-10-16T09:45:00-03:00",
+   "rec": "",
+   "n": 1,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "bruno.lacerda@lojaaurora.example",
+     "n": "Bruno Lacerda",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-1901",
+   "t": "Alinhamento semanal de operações",
+   "s": "2026-10-19T09:00:00-03:00",
+   "e": "2026-10-19T09:45:00-03:00",
+   "rec": "serie-alinhamento",
+   "n": 3,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "bruno.teixeira@lojaaurora.example",
+     "n": "Bruno Teixeira",
+     "r": "accepted"
+    },
+    {
+     "e": "marcos.valente@lojaaurora.example",
+     "n": "Marcos Valente",
+     "r": "accepted"
+    },
+    {
+     "e": "juliana.prado@lojaaurora.example",
+     "n": "Juliana Prado",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-2001",
+   "t": "Rápido Sul: plano da Black Friday",
+   "s": "2026-10-20T10:00:00-03:00",
+   "e": "2026-10-20T11:00:00-03:00",
+   "rec": "",
+   "n": 2,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "bruno.teixeira@lojaaurora.example",
+     "n": "Bruno Teixeira",
+     "r": "accepted"
+    },
+    {
+     "e": "sergio.mattos@rapidosul.example",
+     "n": "Sérgio Mattos",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-2201",
+   "t": "Site novo: checkout",
+   "s": "2026-10-22T14:00:00-03:00",
+   "e": "2026-10-22T14:45:00-03:00",
+   "rec": "",
+   "n": 2,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "leonardo.dias@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    },
+    {
+     "e": "juliana.prado@lojaaurora.example",
+     "n": "Juliana Prado",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-2301",
+   "t": "1:1 Juliana / Renata",
+   "s": "2026-10-23T16:00:00-03:00",
+   "e": "2026-10-23T16:30:00-03:00",
+   "rec": "",
+   "n": 1,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "juliana.prado@lojaaurora.example",
+     "n": "Juliana Prado",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-2601",
+   "t": "Comitê da Black Friday",
+   "s": "2026-10-26T09:30:00-03:00",
+   "e": "2026-10-26T10:30:00-03:00",
+   "rec": "",
+   "n": 6,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "marcos.valente@lojaaurora.example",
+     "n": "Marcos Valente",
+     "r": "accepted"
+    },
+    {
+     "e": "juliana.prado@lojaaurora.example",
+     "n": "Juliana Prado",
+     "r": "accepted"
+    },
+    {
+     "e": "bruno.teixeira@lojaaurora.example",
+     "n": "Bruno Teixeira",
+     "r": "accepted"
+    },
+    {
+     "e": "bruno.lacerda@lojaaurora.example",
+     "n": "Bruno Lacerda",
+     "r": "accepted"
+    },
+    {
+     "e": "atendimento.02@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    },
+    {
+     "e": "leonardo.dias@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-2801",
+   "t": "Painel de estoque: primeira versão",
+   "s": "2026-10-28T15:00:00-03:00",
+   "e": "2026-10-28T15:30:00-03:00",
+   "rec": "",
+   "n": 2,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "leonardo.dias@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    },
+    {
+     "e": "marcos.valente@lojaaurora.example",
+     "n": "Marcos Valente",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-3001",
+   "t": "Retrospectiva de outubro",
+   "s": "2026-10-30T17:00:00-03:00",
+   "e": "2026-10-30T18:00:00-03:00",
+   "rec": "",
+   "n": 6,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "marcos.valente@lojaaurora.example",
+     "n": "Marcos Valente",
+     "r": "accepted"
+    },
+    {
+     "e": "juliana.prado@lojaaurora.example",
+     "n": "Juliana Prado",
+     "r": "accepted"
+    },
+    {
+     "e": "bruno.teixeira@lojaaurora.example",
+     "n": "Bruno Teixeira",
+     "r": "accepted"
+    },
+    {
+     "e": "bruno.lacerda@lojaaurora.example",
+     "n": "Bruno Lacerda",
+     "r": "accepted"
+    },
+    {
+     "e": "atendimento.02@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    },
+    {
+     "e": "leonardo.dias@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    }
+   ]
+  }
+ ]
+}

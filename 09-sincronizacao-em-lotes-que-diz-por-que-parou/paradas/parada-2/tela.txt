@@ -1,0 +1,2 @@
+Parou: A página não tem permissão para ler as notas do gravador. Aceite o pedido de permissão e clique em Continuar. [gravador/permissao_negada]
+Botão: Continuar: 12 reuniões

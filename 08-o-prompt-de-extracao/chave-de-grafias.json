@@ -1,0 +1,66 @@
+{
+  "_leia": "Chave que o contar.py usa para saber quais grafias são a mesma coisa. É a régua da medida, não o glossário: não copie nada daqui para o seu glossário. Grafia em minúsculas e sem acento, como sai do norm(). Nomes que começam com ! são erros de regra: a dona das gravações, a própria loja, rótulo genérico da transcrição e a assistente CLARA posta como pessoa.",
+  "pessoas": {
+    "global": {
+      "marcos valente": "Marcos Valente", "marcos": "Marcos Valente", "valente": "Marcos Valente",
+      "valenti": "Marcos Valente", "walente": "Marcos Valente", "marcos valenti": "Marcos Valente",
+      "marcos walente": "Marcos Valente",
+      "juliana prado": "Juliana Prado", "juliana": "Juliana Prado", "juju": "Juliana Prado",
+      "ju": "Juliana Prado", "ju prado": "Juliana Prado", "prado": "Juliana Prado",
+      "bruno teixeira": "Bruno Teixeira", "teixeira": "Bruno Teixeira", "bruno teixera": "Bruno Teixeira",
+      "teixera": "Bruno Teixeira",
+      "bruno lacerda": "Bruno Lacerda", "lacerda": "Bruno Lacerda", "bruno l": "Bruno Lacerda",
+      "clara nogueira": "Clara Nogueira", "nogueira": "Clara Nogueira",
+      "leonardo dias": "Leonardo Dias", "leonardo": "Leonardo Dias", "leo": "Leonardo Dias",
+      "leo dias": "Leonardo Dias", "dias": "Leonardo Dias",
+      "sergio matos": "Sérgio Matos", "matos": "Sérgio Matos",
+      "sergio mattos": "Sérgio Mattos", "mattos": "Sérgio Mattos",
+      "renata": "!dono", "renata campos": "!dono", "campos": "!dono", "renata campo": "!dono",
+      "clara assistente": "!projeto CLARA", "assistente clara": "!projeto CLARA"
+    },
+    "por_reuniao": {
+      "bruno": {"reuniao-01": "Bruno Teixeira", "reuniao-03": "Bruno Lacerda", "reuniao-07": "Bruno Lacerda",
+                "reuniao-08": "Bruno Teixeira", "reuniao-10": ["Bruno Teixeira", "Bruno Lacerda"],
+                "reuniao-12": "Bruno Lacerda"},
+      "clara": {"reuniao-02": "!projeto CLARA", "reuniao-06": "Clara Nogueira",
+                "reuniao-10": "Clara Nogueira", "reuniao-12": "Clara Nogueira"},
+      "sergio": {"reuniao-04": "Sérgio Matos", "reuniao-08": "Sérgio Mattos"}
+    }
+  },
+  "projetos": {
+    "global": {
+      "clara": "CLARA", "assistente clara": "CLARA", "clara assistente": "CLARA",
+      "assistente virtual clara": "CLARA", "assistente virtual": "CLARA",
+      "assistente virtual do whatsapp": "CLARA", "assistente do whatsapp": "CLARA",
+      "aurora": "Aurora+", "aurora mais": "Aurora+", "aurora plus": "Aurora+",
+      "programa aurora": "Aurora+", "programa aurora mais": "Aurora+", "programa aurora plus": "Aurora+",
+      "programa de fidelidade": "Aurora+", "programa de fidelidade aurora": "Aurora+",
+      "programa de fidelidade aurora mais": "Aurora+", "programa de fidelidade aurora plus": "Aurora+",
+      "black friday 2026": "Black Friday 2026", "black friday": "Black Friday 2026", "bf": "Black Friday 2026",
+      "bf 2026": "Black Friday 2026", "campanha black friday": "Black Friday 2026",
+      "campanha de black friday": "Black Friday 2026", "campanha da black friday": "Black Friday 2026",
+      "campanha bf": "Black Friday 2026", "campanha da bf": "Black Friday 2026",
+      "painel de estoque": "Painel de Estoque", "painel do estoque": "Painel de Estoque",
+      "painel estoque": "Painel de Estoque",
+      "site novo": "Site novo", "novo site": "Site novo", "checkout do novo site": "Site novo",
+      "colecao verao 2027": "Coleção Verão 2027", "colecao de verao": "Coleção Verão 2027",
+      "colecao verao": "Coleção Verão 2027", "colecao de verao 2027": "Coleção Verão 2027"
+    },
+    "por_reuniao": {}
+  },
+  "empresas": {
+    "global": {
+      "rapido sul transportes": "Rápido Sul Transportes", "rapido sul": "Rápido Sul Transportes",
+      "rst": "Rápido Sul Transportes", "rapidosul": "Rápido Sul Transportes",
+      "fio nobre textil": "Fio Nobre Têxtil", "fio nobre": "Fio Nobre Têxtil", "fionobre": "Fio Nobre Têxtil",
+      "pagare": "Pagare", "pagari": "Pagare",
+      "agencia ponto": "Agência Ponto", "ponto agencia": "Agência Ponto", "ponto": "Agência Ponto",
+      "loja aurora": "!loja", "aurora": "!loja", "loja orora": "!loja", "orora": "!loja"
+    },
+    "por_reuniao": {}
+  },
+  "temas": {
+    "global": {"ia": "IA", "inteligencia artificial": "IA"},
+    "por_reuniao": {}
+  }
+}

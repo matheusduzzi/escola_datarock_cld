@@ -1,0 +1,7 @@
+{
+  "_leia": "A sua regra. Começa igual à regra antiga. casamento: \"horario\" ou \"horario_e_pessoas\". correcao: \"global\" ou \"por_reuniao\". emails_confirmados: {\"e-mail\": \"Nome\"}. nomes_confirmados: [\"reuniao-NN\", \"nome falado\", \"nome do convidado\" ou null para deixar sem correção].",
+  "casamento": "horario",
+  "correcao": "global",
+  "emails_confirmados": {},
+  "nomes_confirmados": []
+}

@@ -1,0 +1,65 @@
+{
+  "desde": "2026-10-01",
+  "gravacoes": [
+    {
+      "id": "reuniao-12",
+      "titulo": "Retrospectiva de outubro",
+      "inicio": "2026-10-30 17:00"
+    },
+    {
+      "id": "reuniao-11",
+      "titulo": "Painel de estoque",
+      "inicio": "2026-10-28 15:00"
+    },
+    {
+      "id": "reuniao-10",
+      "titulo": "Comitê da Black Friday",
+      "inicio": "2026-10-26 09:30"
+    },
+    {
+      "id": "reuniao-09",
+      "titulo": "Site novo: checkout",
+      "inicio": "2026-10-22 14:00"
+    },
+    {
+      "id": "reuniao-08",
+      "titulo": "Transportadora: plano de entregas",
+      "inicio": "2026-10-20 10:00"
+    },
+    {
+      "id": "reuniao-07",
+      "titulo": "Fechamento financeiro de setembro",
+      "inicio": "2026-10-16 09:00"
+    },
+    {
+      "id": "reuniao-06",
+      "titulo": "Atendimento: fila e assistente",
+      "inicio": "2026-10-14 11:00"
+    },
+    {
+      "id": "reuniao-05",
+      "titulo": "1:1 Marcos e Renata",
+      "inicio": "2026-10-12 15:27"
+    },
+    {
+      "id": "reuniao-04",
+      "titulo": "Fornecedor de tecidos",
+      "inicio": "2026-10-09 16:00"
+    },
+    {
+      "id": "reuniao-03",
+      "titulo": "Fidelidade: proposta da agência",
+      "inicio": "2026-10-07 10:30"
+    },
+    {
+      "id": "reuniao-02",
+      "titulo": "Atendimento: assistente no WhatsApp",
+      "inicio": "2026-10-06 14:00"
+    },
+    {
+      "id": "reuniao-01",
+      "titulo": "Alinhamento semanal de operações",
+      "inicio": "2026-10-05 09:02"
+    }
+  ]
+}

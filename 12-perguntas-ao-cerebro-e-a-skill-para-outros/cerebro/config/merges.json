@@ -1,0 +1,29 @@
+{
+ "auto": false,
+ "pairs": [
+  "projeto:Black Friday|projeto:Black Friday 2026",
+  "projeto:BF 2026|projeto:Black Friday 2026",
+  "projeto:BF|projeto:Black Friday 2026",
+  "projeto:Aurora Plus|projeto:Aurora+",
+  "projeto:Aurora Mais|projeto:Aurora+",
+  "projeto:Coleção de Verão|projeto:Coleção Verão 2027",
+  "projeto:coleção de verão|projeto:Coleção Verão 2027",
+  "projeto:Painel Estoque|projeto:Painel de Estoque",
+  "projeto:painel do estoque|projeto:Painel de Estoque",
+  "empresa:Rápido-Sul Transportes Ltda|empresa:Rápido Sul Transportes",
+  "empresa:Rápido Sul|empresa:Rápido Sul Transportes",
+  "empresa:Rapidosul|empresa:Rápido Sul Transportes",
+  "empresa:RST|empresa:Rápido Sul Transportes",
+  "empresa:Pagari|empresa:Pagare",
+  "empresa:Pagaré|empresa:Pagare",
+  "empresa:agência Ponto|empresa:Agência Ponto",
+  "empresa:Ponto Agência|empresa:Agência Ponto",
+  "empresa:Fio Nobre Têxtil S.A.|empresa:Fio Nobre Têxtil",
+  "empresa:Fionobre|empresa:Fio Nobre Têxtil",
+  "tema:Inteligência artificial|tema:IA",
+  "tema:Entrega|tema:Entregas"
+ ],
+ "splits": [
+  "pessoa:Sérgio Matos|pessoa:Sérgio Mattos"
+ ]
+}

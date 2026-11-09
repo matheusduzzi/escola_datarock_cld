@@ -1,0 +1,42 @@
+{
+ "fid": "reuniao-09",
+ "title": "Site novo: checkout",
+ "date": "2026-10-22T17:00:00",
+ "duration": 2280000,
+ "status": "ok",
+ "resumo": "Leonardo mostrou o checkout do novo site. O pagamento por Pix agora usa a Pagare direto, sem sair da página. Speaker 1 perguntou se o cupom da Black Friday funciona no checkout novo, e ainda não funciona.\n\nRenata quer o site novo no ar antes de 15/11 ou depois da Black Friday, nunca na semana da campanha. Houve uma ideia de usar IA para recomendar produtos no carrinho, que ficou para 2027.",
+ "entities": {
+  "pessoas": [
+   "Leonardo"
+  ],
+  "projetos": [
+   "Site novo",
+   "Black Friday"
+  ],
+  "temas": [
+   "Pagamentos",
+   "IA"
+  ],
+  "empresas": [
+   "Pagare"
+  ]
+ },
+ "decisoes": [
+  "O site novo só entra no ar se o cupom funcionar até 10/11.",
+  "Se não der, o lançamento fica para dezembro."
+ ],
+ "acoes": [
+  {
+   "responsavel": "Leonardo",
+   "tarefa": "corrige o cupom no checkout",
+   "prazo": "05/11"
+  },
+  {
+   "responsavel": "Speaker 1",
+   "tarefa": "testa o fluxo de compra no celular",
+   "prazo": ""
+  }
+ ],
+ "semResumo": false,
+ "processedAt": "2026-10-31T11:00:00.000Z"
+}

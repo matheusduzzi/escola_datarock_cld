@@ -1,0 +1,4 @@
+# Studio Aurora Pilates: um par por linha
+# cor do texto, cor do fundo e onde o par aparece no site
+# Troque as linhas de exemplo abaixo pelos pares que você achou.
+#000000  #FFFFFF  exemplo: apague esta linha

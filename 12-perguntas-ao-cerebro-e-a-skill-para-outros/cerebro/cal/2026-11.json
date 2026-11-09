@@ -1,0 +1,161 @@
+{
+ "at": "2026-11-02T11:00:00Z",
+ "events": [
+  {
+   "id": "ev-0211",
+   "t": "Alinhamento semanal de operações",
+   "s": "2026-11-02T09:00:00-03:00",
+   "e": "2026-11-02T09:45:00-03:00",
+   "rec": "serie-alinhamento",
+   "n": 3,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "bruno.teixeira@lojaaurora.example",
+     "n": "Bruno Teixeira",
+     "r": "accepted"
+    },
+    {
+     "e": "marcos.valente@lojaaurora.example",
+     "n": "Marcos Valente",
+     "r": "accepted"
+    },
+    {
+     "e": "juliana.prado@lojaaurora.example",
+     "n": "Juliana Prado",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-0311",
+   "t": "Site novo: cupom no checkout",
+   "s": "2026-11-03T14:00:00-03:00",
+   "e": "2026-11-03T14:30:00-03:00",
+   "rec": "",
+   "n": 2,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "leonardo.dias@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    },
+    {
+     "e": "juliana.prado@lojaaurora.example",
+     "n": "Juliana Prado",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-0511",
+   "t": "1:1 Marcos / Renata",
+   "s": "2026-11-05T14:30:00-03:00",
+   "e": "2026-11-05T15:00:00-03:00",
+   "rec": "serie-1a1-marcos",
+   "n": 1,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "marcos.valente@lojaaurora.example",
+     "n": "Marcos Valente",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-0611",
+   "t": "Rápido Sul: contrato e atrasos",
+   "s": "2026-11-06T10:00:00-03:00",
+   "e": "2026-11-06T10:45:00-03:00",
+   "rec": "",
+   "n": 3,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "bruno.teixeira@lojaaurora.example",
+     "n": "Bruno Teixeira",
+     "r": "accepted"
+    },
+    {
+     "e": "bruno.lacerda@lojaaurora.example",
+     "n": "Bruno Lacerda",
+     "r": "accepted"
+    },
+    {
+     "e": "sergio.mattos@rapidosul.example",
+     "n": "Sérgio Mattos",
+     "r": "needsAction"
+    }
+   ]
+  },
+  {
+   "id": "ev-0911",
+   "t": "Comitê da Black Friday",
+   "s": "2026-11-09T09:30:00-03:00",
+   "e": "2026-11-09T10:30:00-03:00",
+   "rec": "",
+   "n": 6,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "marcos.valente@lojaaurora.example",
+     "n": "Marcos Valente",
+     "r": "accepted"
+    },
+    {
+     "e": "juliana.prado@lojaaurora.example",
+     "n": "Juliana Prado",
+     "r": "accepted"
+    },
+    {
+     "e": "bruno.teixeira@lojaaurora.example",
+     "n": "Bruno Teixeira",
+     "r": "accepted"
+    },
+    {
+     "e": "bruno.lacerda@lojaaurora.example",
+     "n": "Bruno Lacerda",
+     "r": "accepted"
+    },
+    {
+     "e": "atendimento.02@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    },
+    {
+     "e": "leonardo.dias@lojaaurora.example",
+     "n": "",
+     "r": "accepted"
+    }
+   ]
+  },
+  {
+   "id": "ev-1611",
+   "t": "Alinhamento semanal de operações",
+   "s": "2026-11-16T09:00:00-03:00",
+   "e": "2026-11-16T09:45:00-03:00",
+   "rec": "serie-alinhamento",
+   "n": 3,
+   "my": "accepted",
+   "a": [
+    {
+     "e": "bruno.teixeira@lojaaurora.example",
+     "n": "Bruno Teixeira",
+     "r": "accepted"
+    },
+    {
+     "e": "marcos.valente@lojaaurora.example",
+     "n": "Marcos Valente",
+     "r": "accepted"
+    },
+    {
+     "e": "juliana.prado@lojaaurora.example",
+     "n": "Juliana Prado",
+     "r": "accepted"
+    }
+   ]
+  }
+ ]
+}

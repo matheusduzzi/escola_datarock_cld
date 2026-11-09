@@ -1,0 +1,46 @@
+{
+ "fid": "reuniao-12",
+ "title": "Retrospectiva de outubro",
+ "date": "2026-10-30T20:00:00",
+ "duration": 2520000,
+ "status": "ok",
+ "resumo": "Renata abriu com o que deu certo em outubro: a CLARA passou a pessoa mais cedo e a espera caiu para 9 minutos. Clara contou que a equipe do atendimento gostou da mudança.\n\nJu Prado disse que o Aurora Plus está pronto para a BF e que o e-mail de lançamento sai em 27/11. Marcos lembrou que a escala dos sábados foi aprovada.\n\nO ponto ruim foi a entrega. Bruno L. mostrou que a Rápido-Sul Transportes Ltda ainda atrasa no interior e que o custo do frete subiu de novo. O Painel Estoque ajudou a ver a falta de toalhas antes de faltar na loja.",
+ "entities": {
+  "pessoas": [
+   "Clara",
+   "Ju Prado",
+   "Marcos",
+   "Bruno L."
+  ],
+  "projetos": [
+   "CLARA",
+   "Aurora Plus",
+   "BF",
+   "Painel Estoque"
+  ],
+  "temas": [
+   "Entrega",
+   "Atendimento"
+  ],
+  "empresas": [
+   "Rápido-Sul Transportes Ltda"
+  ]
+ },
+ "decisoes": [
+  "Manter a coleta extra das segundas até o fim de dezembro."
+ ],
+ "acoes": [
+  {
+   "responsavel": "Bruno L.",
+   "tarefa": "pede à transportadora o relatório de atrasos de outubro",
+   "prazo": ""
+  },
+  {
+   "responsavel": "Ju Prado",
+   "tarefa": "manda o e-mail de lançamento para aprovação",
+   "prazo": ""
+  }
+ ],
+ "semResumo": false,
+ "processedAt": "2026-10-31T11:00:00.000Z"
+}

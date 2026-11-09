@@ -1,0 +1,31 @@
+{
+  "reuniao-12": {
+    "status": "ok",
+    "processedAt": "2026-11-03T16:40:12"
+  },
+  "reuniao-11": {
+    "status": "ok",
+    "processedAt": "2026-11-03T16:40:12"
+  },
+  "reuniao-10": {
+    "status": "ok",
+    "processedAt": "2026-11-03T16:40:13"
+  },
+  "reuniao-06": {
+    "status": "ok",
+    "processedAt": "2026-11-03T16:40:23"
+  },
+  "reuniao-05": {
+    "status": "ok",
+    "processedAt": "2026-11-03T16:40:23"
+  },
+  "reuniao-04": {
+    "status": "ok",
+    "processedAt": "2026-11-03T16:40:23"
+  },
+  "reuniao-09": {
+    "status": "erro",
+    "erro": "claude/resposta_invalida",
+    "processedAt": "2026-11-03T16:40:29"
+  }
+}

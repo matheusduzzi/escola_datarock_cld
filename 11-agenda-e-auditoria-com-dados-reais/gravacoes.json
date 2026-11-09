@@ -1,0 +1,17 @@
+{
+ "_leia": "As 12 gravações de outubro da Renata: o título que o gravador deu, o início no horário de Brasília, a duração e as pessoas que a extração deixou em cada uma, do jeito que foram escritas (as mesmas da aula anterior). A Renata, dona das gravações, não entra na lista. Não mude esse arquivo.",
+ "gravacoes": [
+  {"id": "reuniao-01", "titulo": "Alinhamento semanal de operações", "inicio": "2026-10-05T09:02:00-03:00", "duracao_min": 41, "pessoas": ["Bruno Teixera", "Valenti", "Juju"]},
+  {"id": "reuniao-02", "titulo": "Atendimento: assistente no WhatsApp", "inicio": "2026-10-06T14:00:00-03:00", "duracao_min": 35, "pessoas": ["Léo"]},
+  {"id": "reuniao-03", "titulo": "Fidelidade: proposta da agência", "inicio": "2026-10-07T10:30:00-03:00", "duracao_min": 52, "pessoas": ["Juliana Prado", "Bruno", "Lacerda"]},
+  {"id": "reuniao-04", "titulo": "Fornecedor de tecidos", "inicio": "2026-10-09T16:00:00-03:00", "duracao_min": 30, "pessoas": ["Sérgio Matos", "Marcos Valente"]},
+  {"id": "reuniao-05", "titulo": "1:1 Marcos e Renata", "inicio": "2026-10-12T15:27:00-03:00", "duracao_min": 24, "pessoas": ["Walente"]},
+  {"id": "reuniao-06", "titulo": "Atendimento: fila e assistente", "inicio": "2026-10-14T11:00:00-03:00", "duracao_min": 40, "pessoas": ["Clara Nogueira", "Leo Dias", "Juju"]},
+  {"id": "reuniao-07", "titulo": "Fechamento financeiro de setembro", "inicio": "2026-10-16T09:00:00-03:00", "duracao_min": 45, "pessoas": ["Bruno", "Lacerda"]},
+  {"id": "reuniao-08", "titulo": "Transportadora: plano de entregas", "inicio": "2026-10-20T10:00:00-03:00", "duracao_min": 50, "pessoas": ["Sérgio Mattos", "Bruno", "Teixeira"]},
+  {"id": "reuniao-09", "titulo": "Site novo: checkout", "inicio": "2026-10-22T14:00:00-03:00", "duracao_min": 38, "pessoas": ["Leonardo"]},
+  {"id": "reuniao-10", "titulo": "Comitê da Black Friday", "inicio": "2026-10-26T09:30:00-03:00", "duracao_min": 60, "pessoas": ["Marcos", "Juliana", "Bruno", "Clara", "Léo"]},
+  {"id": "reuniao-11", "titulo": "Painel de estoque", "inicio": "2026-10-28T15:00:00-03:00", "duracao_min": 33, "pessoas": ["Léo", "Valente"]},
+  {"id": "reuniao-12", "titulo": "Retrospectiva de outubro", "inicio": "2026-10-30T17:00:00-03:00", "duracao_min": 42, "pessoas": ["Clara", "Ju Prado", "Marcos", "Bruno L."]}
+ ]
+}

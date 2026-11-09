@@ -1,0 +1,2 @@
+Parou: Limite de uso do Claude atingido. O que já foi lido está salvo. [claude/rate_limited]
+Botão: Continuar: 6 reuniões

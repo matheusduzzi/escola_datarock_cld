@@ -1,0 +1,9 @@
+{
+  "_leia": "Os pares de \"não unir\" que você marcou na aula anterior, guardados no banco. A auditoria lê esse arquivo e nunca grava por cima dele.",
+  "nao_unir": [
+    [
+      "pessoa:Sérgio Matos",
+      "pessoa:Sérgio Mattos"
+    ]
+  ]
+}

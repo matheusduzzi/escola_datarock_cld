@@ -1,0 +1,11 @@
+{
+  "resultado": "parou",
+  "etapa": "claude",
+  "codigo": "rate_limited",
+  "mensagem": "Limite de uso do Claude atingido. O que já foi lido está salvo.",
+  "detalhe": "usage limit reached for this period",
+  "lidas": 6,
+  "total": 12,
+  "pendentes": 6,
+  "em": "2026-11-03T16:40:29"
+}

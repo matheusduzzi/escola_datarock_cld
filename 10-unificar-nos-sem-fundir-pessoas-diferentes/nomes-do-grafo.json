@@ -1,0 +1,15 @@
+{
+  "_leia": "Os nomes que a extração deixou em cada reunião da Loja Aurora, do jeito que foram escritos. A dona das gravações, a própria loja e os rótulos como Falante 2 já saíram: isso é trabalho do prompt. Não mude esse arquivo: o resolvedor lê daqui.",
+  "reuniao-01": {"pessoas": ["Bruno Teixera", "Valenti", "Juju"], "projetos": ["BF"], "empresas": ["RST"], "temas": ["Entregas", "Estoque"]},
+  "reuniao-02": {"pessoas": ["Léo"], "projetos": ["CLARA"], "empresas": [], "temas": ["Atendimento", "Inteligência artificial"]},
+  "reuniao-03": {"pessoas": ["Juliana Prado", "Bruno", "Lacerda"], "projetos": ["Aurora Mais"], "empresas": ["Ponto Agência", "Pagari"], "temas": ["Fidelidade", "Custos"]},
+  "reuniao-04": {"pessoas": ["Sérgio Matos", "Marcos Valente"], "projetos": ["Coleção de Verão"], "empresas": ["Fionobre"], "temas": ["Fornecedores", "Prazos"]},
+  "reuniao-05": {"pessoas": ["Walente"], "projetos": ["Black Friday"], "empresas": [], "temas": ["Lojas físicas", "Equipe"]},
+  "reuniao-06": {"pessoas": ["Clara Nogueira", "Leo Dias", "Juju"], "projetos": ["CLARA", "Black Friday"], "empresas": [], "temas": ["Atendimento", "IA"]},
+  "reuniao-07": {"pessoas": ["Bruno", "Lacerda"], "projetos": ["Aurora Plus", "Black Friday"], "empresas": ["Rápido Sul", "Pagaré"], "temas": ["Custos", "Fidelidade"]},
+  "reuniao-08": {"pessoas": ["Sérgio Mattos", "Bruno", "Teixeira"], "projetos": ["BF 2026"], "empresas": ["Rapidosul"], "temas": ["Entregas", "Contratos"]},
+  "reuniao-09": {"pessoas": ["Leonardo"], "projetos": ["Site novo", "Black Friday"], "empresas": ["Pagare"], "temas": ["Pagamentos", "IA"]},
+  "reuniao-10": {"pessoas": ["Marcos", "Juliana", "Bruno", "Clara", "Léo"], "projetos": ["Black Friday 2026", "Aurora+", "CLARA"], "empresas": ["agência Ponto"], "temas": ["Campanha", "Atendimento"]},
+  "reuniao-11": {"pessoas": ["Léo", "Valente"], "projetos": ["painel do estoque", "coleção de verão"], "empresas": ["Fio Nobre Têxtil S.A."], "temas": ["Estoque", "Inteligência artificial"]},
+  "reuniao-12": {"pessoas": ["Clara", "Ju Prado", "Marcos", "Bruno L."], "projetos": ["CLARA", "Aurora Plus", "BF", "Painel Estoque"], "empresas": ["Rápido-Sul Transportes Ltda"], "temas": ["Entrega", "Atendimento"]}
+}

@@ -1,0 +1,43 @@
+{
+ "fid": "reuniao-11",
+ "title": "Painel de estoque",
+ "date": "2026-10-28T18:00:00",
+ "duration": 1980000,
+ "status": "ok",
+ "resumo": "Léo mostrou a primeira versão do painel do estoque, com o saldo das duas lojas e do depósito atualizado a cada hora. Valente quer ver também o que já foi pedido à Fio Nobre Têxtil S.A. e ainda não chegou.\n\nFalou-se de usar inteligência artificial para prever a falta de produto na coleção de verão, mas a base de vendas tem só um ano. Renata pediu para começar com um alerta simples de estoque baixo.",
+ "entities": {
+  "pessoas": [
+   "Léo",
+   "Valente"
+  ],
+  "projetos": [
+   "painel do estoque",
+   "coleção de verão"
+  ],
+  "temas": [
+   "Estoque",
+   "Inteligência artificial"
+  ],
+  "empresas": [
+   "Fio Nobre Têxtil S.A."
+  ]
+ },
+ "decisoes": [
+  "O painel ganha uma coluna de pedidos em trânsito.",
+  "A previsão fica para depois de um ano inteiro de dados."
+ ],
+ "acoes": [
+  {
+   "responsavel": "Léo",
+   "tarefa": "inclui os pedidos em trânsito",
+   "prazo": "04/11"
+  },
+  {
+   "responsavel": "Valente",
+   "tarefa": "define o estoque mínimo de cada produto da coleção de verão",
+   "prazo": ""
+  }
+ ],
+ "semResumo": false,
+ "processedAt": "2026-10-31T11:00:00.000Z"
+}

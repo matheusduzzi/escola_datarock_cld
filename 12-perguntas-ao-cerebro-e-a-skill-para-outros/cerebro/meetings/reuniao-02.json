@@ -1,0 +1,39 @@
+{
+ "fid": "reuniao-02",
+ "title": "Atendimento: assistente no WhatsApp",
+ "date": "2026-10-06T17:00:00",
+ "duration": 2100000,
+ "status": "ok",
+ "resumo": "O assunto foi a assistente virtual do WhatsApp. A Clara respondeu errado sobre o prazo de troca em três conversas da semana passada: disse 30 dias, e a política da Loja Aurora é de 7 dias para produto sem defeito. Léo explicou que a base de respostas da Clara ainda tem a política antiga.\n\nFalante 2 lembrou que a Clara também tentou responder sobre reembolso, que não é assunto dela. Renata quer que a assistente passe para uma pessoa sempre que o cliente falar em dinheiro.\n\nHouve uma conversa sobre usar inteligência artificial para sugerir respostas à equipe, mas ficou para depois da Black Friday.",
+ "entities": {
+  "pessoas": [
+   "Léo"
+  ],
+  "projetos": [
+   "CLARA"
+  ],
+  "temas": [
+   "Atendimento",
+   "Inteligência artificial"
+  ],
+  "empresas": []
+ },
+ "decisoes": [
+  "A Clara não responde sobre reembolso: passa para a equipe.",
+  "A política de troca da base é trocada pela atual."
+ ],
+ "acoes": [
+  {
+   "responsavel": "Léo",
+   "tarefa": "atualiza a base de respostas",
+   "prazo": "10/10"
+  },
+  {
+   "responsavel": "Falante 2",
+   "tarefa": "separa as conversas com erro para teste",
+   "prazo": ""
+  }
+ ],
+ "semResumo": false,
+ "processedAt": "2026-10-31T11:00:00.000Z"
+}

@@ -1,0 +1,7 @@
+{
+  "_leia": "Sua configuração do resolvedor. auto liga as camadas automáticas. siglas: pares [expressão, sigla] além das do case. pares: uniões manuais. nao_unir: pares que nunca ficam no mesmo nó. Cada nome no formato \"tipo:Nome\", com tipo pessoa, projeto, empresa ou tema, e o nome escrito como está em nomes-do-grafo.json.",
+  "auto": true,
+  "siglas": [],
+  "pares": [],
+  "nao_unir": []
+}

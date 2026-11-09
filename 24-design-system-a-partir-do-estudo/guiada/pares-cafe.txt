@@ -1,0 +1,7 @@
+# Café da Praça: cor do texto, cor do fundo e onde o par aparece
+#3B2F2A  #FAF6F0  corpo do texto na página
+#6B4A3A  #FAF6F0  título na página
+#FFFFFF  #6B4A3A  botão
+#6B4A3A  #FAF6F0  preço, já com o marrom único
+#FAF6F0  #3B2F2A  rodapé
+#FFFFFF  #D9A066  selo Novidade, pedido do dono

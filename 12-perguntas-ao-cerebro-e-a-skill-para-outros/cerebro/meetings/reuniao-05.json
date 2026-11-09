@@ -1,0 +1,38 @@
+{
+ "fid": "reuniao-05",
+ "title": "1:1 Marcos e Renata",
+ "date": "2026-10-12T18:27:00",
+ "duration": 1440000,
+ "status": "ok",
+ "resumo": "Conversa de acompanhamento. Walente trouxe as metas das lojas físicas para a Black Friday: a loja do Centro quer vender 20% mais que no ano passado, e a do Shopping Norte, 15%.\n\nEle contou que a vitrine nova da Loja Orora no shopping atrasou porque o fornecedor do painel de LED não entregou. Também pediu reforço de equipe nos sábados de novembro.",
+ "entities": {
+  "pessoas": [
+   "Walente"
+  ],
+  "projetos": [
+   "Black Friday"
+  ],
+  "temas": [
+   "Lojas físicas",
+   "Equipe"
+  ],
+  "empresas": []
+ },
+ "decisoes": [
+  "As duas lojas recebem reforço de equipe aos sábados em novembro."
+ ],
+ "acoes": [
+  {
+   "responsavel": "Walente",
+   "tarefa": "manda a escala de novembro",
+   "prazo": "16/10"
+  },
+  {
+   "responsavel": "Renata",
+   "tarefa": "aprova a escala",
+   "prazo": ""
+  }
+ ],
+ "semResumo": false,
+ "processedAt": "2026-10-31T11:00:00.000Z"
+}

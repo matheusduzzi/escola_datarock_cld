@@ -1,0 +1,11 @@
+{
+  "resultado": "parou",
+  "etapa": "gravador",
+  "codigo": "permissao_negada",
+  "mensagem": "A página não tem permissão para ler as notas do gravador. Aceite o pedido de permissão e clique em Continuar.",
+  "detalhe": "permission denied by user",
+  "lidas": 0,
+  "total": 12,
+  "pendentes": 12,
+  "em": "2026-11-04T09:15:03"
+}
